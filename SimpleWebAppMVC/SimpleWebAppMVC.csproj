@@ -8,7 +8,7 @@
     <Description>Simple Web App MVC</Description>
     <Copyright>2024 Feygon Nickerson</Copyright>
     <PackageLicenseUrl></PackageLicenseUrl>
-    <PackageProjectUrl>https://www.jammary.com/</PackageProjectUrl>
+    <PackageProjectUrl>http://www.realFeygon.com</PackageProjectUrl>
     <Version>1.0.0</Version>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <NoWarn>$(NoWarn);1591</NoWarn>
